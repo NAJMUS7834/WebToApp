@@ -1,4 +1,7 @@
 package com.example.najmus.webtoapp;
+/*====================================
+    Author : NAJMUS SEEMAB
+======================================*/
 
 import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
