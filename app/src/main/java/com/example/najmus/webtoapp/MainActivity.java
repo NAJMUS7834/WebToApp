@@ -23,7 +23,7 @@ public class MainActivity extends Activity {
         mywebView =(WebView)findViewById ( R.id.webView );
         WebSettings webSettings = mywebView.getSettings ();
         webSettings.setJavaScriptEnabled ( true );
-        mywebView.loadUrl ( "https://sensors7834.blogspot.in" );
+        mywebView.loadUrl ( "https://sensors7834.blogspot.in" );//paste your url here
         mywebView.setWebViewClient ( new WebViewClient () );//prevents our url to open in another browser
 
     }
